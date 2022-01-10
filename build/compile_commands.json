@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lyk/桌面/try/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -isystem /usr/local/include/opencv4  -g   -O3 -std=gnu++14 -o CMakeFiles/TRY.dir/main.cpp.o -c /home/lyk/桌面/try/main.cpp",
+  "file": "/home/lyk/桌面/try/main.cpp"
+}
+]

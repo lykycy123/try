@@ -1,0 +1,3 @@
+/home/lyk/桌面/try/build/CMakeFiles/rebuild_cache.dir
+/home/lyk/桌面/try/build/CMakeFiles/edit_cache.dir
+/home/lyk/桌面/try/build/CMakeFiles/TRY.dir
